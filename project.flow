@@ -4,7 +4,7 @@
     window: {
       width:960,
       height:640,
-      title:'luxe empty project',
+      title:'luxe-test',
       fullscreen:false,
       resizable:true,
       borderless:false
@@ -12,13 +12,13 @@
   },
 
   project : {
-    name : 'empty',
+    name : 'test',
     version : '1.0.0',
-    author : 'luxeengine',
+    author : 'emilknievel',
 
     app : {
-      name : 'luxe_empty',
-      package : 'com.luxeengine.empty'
+      name : 'luxe_test',
+      package : 'com.luxeengine.test'
     },
 
     build : {
