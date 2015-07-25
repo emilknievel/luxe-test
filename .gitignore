@@ -1,0 +1,8 @@
+# Build and Release Folders
+bin/*
+
+# Other files and folders
+.settings/
+.DS_Store
+.AppleDouble
+.LSOverride
